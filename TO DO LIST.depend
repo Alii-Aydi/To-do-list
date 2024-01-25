@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646142657 source:c:\users\azus\desktop\developpment\dynamic memory allocation\to do list\main.c
+	<stdio.h>
+	<stdlib.h>
+
